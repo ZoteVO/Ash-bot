@@ -1,0 +1,11 @@
+{
+  "name": "AshBot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZoteVO/Ash-bot.git",
+  "author": "ZoteVO <agariobonus76@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
